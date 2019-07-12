@@ -6,7 +6,8 @@ namespace AHBC_Lab2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //this is my first commit
+            Console.WriteLine("hey world");
         }
     }
 }
